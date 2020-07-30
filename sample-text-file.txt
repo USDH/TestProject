@@ -1,2 +1,8 @@
 git init -> to establish a dir as git repository
 git status -> to get the status of the local git repositiry
+git config --global user.email "emailid"
+git config --global user.name "username"
+git add
+git commit -m "comments"
+git log
+git diff <filename>
