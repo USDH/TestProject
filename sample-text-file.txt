@@ -1,2 +1,2 @@
-git init 
-git status
+git init -> to establish a dir as git repository
+git status -> to get the status of the local git repositiry
