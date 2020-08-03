@@ -5,4 +5,5 @@ git config --global user.name "username"
 git add -> to the file to the staging environment
 git commit -m "comments"
 git log
+git diff <filename>
 git push origin <branchname> --> will push the files to the branchname	
