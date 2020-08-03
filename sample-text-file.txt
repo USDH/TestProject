@@ -2,7 +2,24 @@ git init -> to establish a dir as git repository
 git status -> to get the status of the local git repositiry
 git config --global user.email "emailid"
 git config --global user.name "username"
+git config user.name <user name>
+git config.email <user mail id>
 git add -> to the file to the staging environment
 git commit -m "comments"
 git log
 git diff <filename>
+git push origin master --> to push the files to master branch
+git pull origin master --> to pull the files from master branch
+
+git barnch -> will tell the user the branch/es available and in which branch the user is
+
+git checkout -b <name of the branch> --> once the command is executed the branch is created and the control is switched to new branch
+
+git checkout <branchname> --> to switch to the given branchname		
+
+git remote add origin <GitHub repository URL> --> first time to push the files to remote
+git clone <GitHub Repository URL> --first time to pull the files from remote to local
+
+
+git config -will provide the authorization to git respository
+git config --global - will set the authorization for all the git repository in the local system.It is better to use git config user.email or user.name
