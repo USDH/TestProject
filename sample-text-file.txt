@@ -8,13 +8,4 @@ git log
 git diff <filename>
 
 
-
-
-
-
-
-
-
-
-
 git push origin <branchname> --> will push the files to the branchname	
