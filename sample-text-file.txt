@@ -8,6 +8,9 @@ git add -> to the file to the staging environment
 git commit -m "comments"
 git log
 git diff <filename>
+
+git push origin <branchname> --> will push the files to the branchname	
+
 git push origin master --> to push the files to master branch
 git pull origin master --> to pull the files from master branch
 
