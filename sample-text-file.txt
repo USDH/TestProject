@@ -8,9 +8,9 @@ git add -> to the file to the staging environment
 git commit -m "comments"
 git log
 git diff <filename>
-<<<<<<< HEAD
+
 git push origin <branchname> --> will push the files to the branchname	
-=======
+
 git push origin master --> to push the files to master branch
 git pull origin master --> to pull the files from master branch
 
@@ -26,4 +26,3 @@ git clone <GitHub Repository URL> --first time to pull the files from remote to 
 
 git config -will provide the authorization to git respository
 git config --global - will set the authorization for all the git repository in the local system.It is better to use git config user.email or user.name
->>>>>>> ae0e0f2622ab451b430d43ceb621c38d957f771f
